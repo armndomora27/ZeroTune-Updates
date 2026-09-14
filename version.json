@@ -1,5 +1,8 @@
 {
-  "version": "1.0.0",
-  "versionCode": 1,
-  "downloadUrl": ""
+  "latestVersion": "1.0.0",
+  "latestBuild": 1,
+  "mandatory": true,
+  "apkUrl": "",
+  "sha256": "",
+  "message": "Primera versión de ZeroTune."
 }
