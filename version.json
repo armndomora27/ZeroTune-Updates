@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.0",
-  "latestBuild": 1,
+  "latestVersion": "1.1.0",
+  "latestBuild": 2,
   "mandatory": true,
-  "apkUrl": "",
-  "sha256": "",
-  "message": "Primera versión de ZeroTune."
+  "apkUrl": "https://github.com/armndomora27/ZeroTune-Updates/releases/download/v1.1.0/ZeroTune-1.1.0.apk",
+  "sha256": "F903C1A8E42DA1D738F914FC8795E6DCCC3260C5C7781DA5B1238DBE3E9F3979",
+  "message": "Nueva versión con mejoras y correcciones."
 }
