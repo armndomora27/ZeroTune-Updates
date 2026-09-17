@@ -2,7 +2,7 @@
   "latestVersion": "1.1.0",
   "latestBuild": 2,
   "mandatory": true,
-  "apkUrl": "https://github.com/armndomora27/ZeroTune-Updates/releases/download/V1.1.0/app-release.apk",
-  "sha256": "F903C1A8E42DA1D738F914FC8795E6DCCC3260C5C7781DA5B1238DBE3E9F3979",
-  "message": "Nueva versión con mejoras y correcciones."
+  "apkUrl": "https://raw.githubusercontent.com/armndomora27/zerotune-updates/main/app-release.apk",
+  "sha256": "987DA5CD7A9C7FB57A99C8BF0EA84B10FC199E53FAC44D929F78381499F14EBE",
+  "message": "¡Actualización obligatoria crítica! Conexión y seguridad restablecidas."
 }
